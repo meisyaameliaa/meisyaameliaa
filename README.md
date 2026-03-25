@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Meisya Amelia Azzahra 👋
 
-<!--
-**meisyaameliaa/meisyaameliaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Political Science Graduate | Employee Relations & Compliance | Digital Marketing |  Social Media**
 
-Here are some ideas to get you started:
+I am a graduate of Siliwangi University (GPA 3.90/4.00) with a strong passion for Human Resources, strategic communication, and digital content. Currently interning at **PT Sumber Alfaria Trijaya Tbk (Alfamart)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Experience & Projects
+- **Employee Relations & Compliance Intern** - Alfamart (Present)
+- **Awardee Pertukaran Mahasiswa Merdeka (PMM 3)** - Universitas Mataram
+- **Secretary & Comm-Info Bureau** - BEM FISIP UNSIL
+
+### 🛠 Skills & Tools
+- **Analysis:** SPSS, Microsoft Excel
+- **Creative:** Canva, CapCut, Figma, Photography
+- **Administrative:** Document Management (150+ docs handled)
+
+---
+*Check out my full visual portfolio in the files above!*
